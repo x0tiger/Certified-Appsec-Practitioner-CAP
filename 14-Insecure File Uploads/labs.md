@@ -1,0 +1,4 @@
+- https://portswigger.net/web-security/all-labs#file-upload-vulnerabilities
+- https://cybertalents.com/challenges/web/join-team
+- https://cybertalents.com/challenges/web/black-inc
+- https://cybertalents.com/challenges/web/f2up

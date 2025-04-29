@@ -1,1 +1,1 @@
-# Certified Appsec Practitioner (CAP)
+# Certified AppSec Practitioner V2 (CAP)
